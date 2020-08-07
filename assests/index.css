@@ -1,0 +1,104 @@
+
+
+
+.behind{
+    background-color: #ffa1a7;
+    margin: 0px;
+    padding: 150px 500px;
+    position: relative;
+    top: 0px;
+    z-index: initial;
+}
+
+.container{
+    position: relative;
+    top: -300px;
+    z-index:1;
+}
+
+h1 {
+    text-align: center;
+}
+
+#main-img {
+    border-radius: 50%;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+#bio{
+    background-color: #ffcda1;
+    text-align: center;
+    padding: 50px 10px;
+    margin: 0px 150px;
+    position: relative;
+    top: -300px;
+
+}
+
+.likes{
+    background-color: #ffa1a7;
+    text-align: center;
+    padding: 10px;
+    margin: 50px;
+    position: relative;
+    top: -300px;
+    right: 50px;
+}
+    
+.dislikes{
+    background-color: #ffa1a7;
+    text-align: center;
+    padding: 10px;
+    margin: 50px;
+    position: relative;
+    top: -400px;
+    left: 50px;
+}
+
+li{
+    text-align: center;
+    padding: 0px;
+}
+
+h2{
+    text-align: center;
+    color: green;
+    font-size: large;
+    padding: 0px;
+}
+
+h3{
+    text-align: center;
+    color: red;
+    font-size: large;
+    padding: 0px;
+}
+
+.list-likes{
+    list-style-type: none;
+    padding: 0px;
+}
+
+.list-likes{
+    list-style-type: none;
+    padding: 0px;
+
+}
+
+ul{
+    list-style-type: none;
+    padding: 0px; 
+}
+
+#credit{
+    text-align: center;
+    padding: 10px;
+    margin: 0px 150px;
+    position: relative;
+    top: -350px;
+}
